@@ -6,6 +6,6 @@ For more information, please refer to our online documentation -
 
 https://cuepay.com/developers
 
-https://github.com/cuepay/whmcs
+https://github.com/cuepay/woocommerce
 
 Contact - support@cuepay.com
