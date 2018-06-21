@@ -1,6 +1,6 @@
 Cuepay - Woocommerce is the payment gateway desiged to accept local ( Nigeria ) and international cards - Mastercard, Visa, and Verve cards on your Woocommerce store.
 
-For support and enquiries contact: +234 0903 800 8801 - support@cuepay.com
+For support and enquiries contact: +234 0903 000 0700 - support@cuepay.com
 
 Note: You'll be needing a Cuepay Merchant ID and Secret Key - https://cuepay.com
 
