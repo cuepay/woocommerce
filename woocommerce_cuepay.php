@@ -3,7 +3,7 @@
 	/*
 	 * Plugin Name: Cuepay - WooCommerce
 	 * Plugin URI: https://cuepay.com/developer/
-	 * Description: The payment gateway desiged to accept local ( Nigeria ) and international cards - Mastercard, Visa, and Verve cards on your Woocommerce store.
+	 * Description: This payment gateway accepts local ( Nigeria ) and international cards - Mastercard, Visa, and Verve cards on your Woocommerce store.
 	 * Version: 1.0.0
 	 * Author: Freeman
 	 * Author URI: https://freeman.com.ng
